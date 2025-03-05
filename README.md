@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## Contributing
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments 
 - __The Cancer Genome Atlas (TCGA) for__ providing the dataset used in this project.
