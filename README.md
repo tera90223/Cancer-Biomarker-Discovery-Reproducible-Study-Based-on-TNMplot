@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - __My team__ for their contributions and insights.
 
 ## References
-Bartha, Á., & Győrffy, B. (2021, March 5). TNMplot.com: A web tool for the comparison of gene  expression in normal, tumor and metastatic tissues. MDPI. https://www.mdpi.com/1422-      0067/22/5/2622 
+Bartha, Á., & Győrffy, B. (2021, March 5). TNMplot.com: A web tool for the comparison of gene  expression in normal, tumor and metastatic tissues. MDPI. https://www.mdpi.com/1422-0067/22/5/2622 
