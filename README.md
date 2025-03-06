@@ -21,7 +21,10 @@ pip install -r requirements.txt
 
 ## Project Structure
 ``` bash
-├── data/                  # Contains raw data files (e.g., TCGA RNA-seq data)
+/data
+├── raw/
+│   ├── sample_sheet.csv   # Sample Sheet from TCGA
+│   ├── metadata.json      # Metadata file
 ├── scripts/               # Python/R scripts for analysis
 ├── results/               # Generated results (plots, statistics, etc.)
 ├── README.md              # Project overview
